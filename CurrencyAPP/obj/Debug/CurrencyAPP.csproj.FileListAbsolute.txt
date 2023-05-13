@@ -1,0 +1,15 @@
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\bin\Debug\CurrencyAPP.exe.config
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\bin\Debug\CurrencyAPP.exe
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\bin\Debug\CurrencyAPP.pdb
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\bin\Debug\Guna.UI2.dll
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\obj\Debug\CurrencyAPP.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\obj\Debug\CurrencyAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\obj\Debug\CurrencyAPP.Form1.resources
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\obj\Debug\CurrencyAPP.Properties.Resources.resources
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\obj\Debug\CurrencyAPP.csproj.GenerateResource.cache
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\obj\Debug\CurrencyAPP.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\obj\Debug\CurrencyAPP.csproj.CopyComplete
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\obj\Debug\CurrencyAPP.exe
+C:\Users\Microsoft\Desktop\CurrencyAPP\CurrencyAPP\obj\Debug\CurrencyAPP.pdb
